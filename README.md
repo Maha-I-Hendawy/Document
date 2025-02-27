@@ -15,10 +15,10 @@ This document serves as guidelines for developers to use the software
 
 ### Backend Technologies
 + Python
-  
-  > [!NOTE]  
-  > this is a note
-  
 + Flask
 
 
+
+
+ > [!NOTE]    
+ > this is a note
