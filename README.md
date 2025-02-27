@@ -1,8 +1,8 @@
 # A new Document 
 
-## Document 1
+## [Document 1]()
 
-+ first **my first title**
++ [first]() **my first title**
 + second *my second title*
 + third ***my third title***
 
