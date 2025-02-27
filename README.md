@@ -11,3 +11,7 @@ this is a new paragraph
 [^1]: reference
 [^2]: reference
 
+- [X]
+- [ ]
+- [ ]
+
