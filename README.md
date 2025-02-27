@@ -3,7 +3,7 @@
 ## Document 1
 
 + first **my first title**
-+ second
++ second *my second title*
 + third
 
 
