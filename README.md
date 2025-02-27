@@ -18,7 +18,4 @@ This document serves as guidelines for developers to use the software
 + Flask
 
 
-
-
- > [!NOTE]    
- > this is a note
+  
