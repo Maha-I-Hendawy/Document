@@ -3,20 +3,22 @@
  ## Overview
 The Document software is a simple application that explains Spacey features
 
-## What the Linguistics app does
+## What the Document app does
 
-- Create an account.
-- Log in.
-- Logout.
-- Add, read, update, and delete users.
-- Create, read, update, and delete roles.
-- Create, read, update, and delete permissions.
-- Create, read, update, and delete permissions.
-- Update their profiles
-- Assign roles to users
-- Assign permissions to roles
-- Add users to groups
-- Assign permissions to groups
+- Linguistic Features
+- POS Tagging
+- Morphology
+- Lemmatization
+- Dependency Parse
+- Named Entities
+- Entity Linking
+- Tokenization
+- Merging & Splitting
+- Sentence Segmentation
+- Mappings & Exceptions
+- Vectors & Similarity
+- Language Data 
+
 
 
 
